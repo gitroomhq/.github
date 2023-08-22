@@ -24,6 +24,7 @@ I have decided to take this success and help other open-source founders / mainta
   <li><a href="https://github.com/github-20k/super-star">GitHub20k super-star</a> - The open-source course / landing page</li>
   <li><a href="https://discord.github20k.com">Join the discord</a> - meet other founders and maintainers</li>
   <li><a href="https://twitter.com/nevodavid">My Twitter</a> - Let's connect and talk open-source</li>
+  <li><a href="https://howtogetgithubstars.com">How to get GitHub stars</a> short link.</li>
 </ul>
 
 <br />
