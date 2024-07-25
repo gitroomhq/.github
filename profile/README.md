@@ -25,6 +25,7 @@ I have decided to take this success and help other open-source founders/maintain
   <li><a href="https://discord.github20k.com">Join the discord</a> - meet other founders and maintainers</li>
   <li><a href="https://twitter.com/nevodavid">My Twitter</a> - Let's connect and talk open-source</li>
   <li><a href="https://howtogetgithubstars.com">How to get GitHub stars</a> short link.</li>
+  <li><a href="https://postiz.com">Postiz</a> The ultimate social media schedule tool</li>
 </ul>
 
 <br />
